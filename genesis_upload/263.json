@@ -1,0 +1,52 @@
+{
+  "name": "Pulse369 Genesis #263",
+  "description": "Pulse369 Genesis NFT - Full platform access to Trail Boss and the Pulse369 DAO ecosystem. Activate your SID (Service Identity Directory) to create unlimited business accounts, deploy DAOs, and access complete platform features. Genesis holders enjoy lifetime access with no monthly fees.",
+  "image": "https://YOURDOMAIN/images/genesis.png",
+  "external_url": "https://pulse369.com",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Pulse369 Genesis"
+    },
+    {
+      "trait_type": "Token Number",
+      "value": 263
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": 369
+    },
+    {
+      "trait_type": "Type",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Full Access"
+    },
+    {
+      "trait_type": "Platform Access",
+      "value": "Complete"
+    },
+    {
+      "trait_type": "SID Activation",
+      "value": "Available"
+    },
+    {
+      "trait_type": "Business Accounts",
+      "value": "Unlimited"
+    },
+    {
+      "trait_type": "DAO Deployment",
+      "value": "Enabled"
+    },
+    {
+      "trait_type": "Trail Boss",
+      "value": "Integrated"
+    },
+    {
+      "trait_type": "Monthly Fees",
+      "value": "None"
+    }
+  ]
+}

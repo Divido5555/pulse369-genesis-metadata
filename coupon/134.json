@@ -1,0 +1,24 @@
+{
+  "name": "Pulse369 Coupon #134",
+  "description": "Pulse369 Coupon NFT — grants discount and upgrade path to Genesis.",
+  "image": "ipfs://bafybeiawlzoblemdwia2hqrqtl3jggsxei2akfzrsjrjd7xjbndzssfyde",
+  "external_url": "https://pulse369.io",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Coupon"
+    },
+    {
+      "trait_type": "SID",
+      "value": 134
+    },
+    {
+      "trait_type": "Token Number",
+      "value": 134
+    },
+    {
+      "trait_type": "Supply",
+      "value": 369
+    }
+  ]
+}
